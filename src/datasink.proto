@@ -3,7 +3,7 @@ import "common.proto";
 import "template.proto";
 import "anonymize.proto";
 
-package types;
+package presidio.protobufs;
 
 /* DatasinkRequest represents the request to the data-sink service via GRPC */
 message DatasinkRequest {

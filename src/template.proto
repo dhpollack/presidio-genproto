@@ -1,6 +1,6 @@
 syntax = "proto3";
 import "common.proto";
-package types;
+package presidio.protobufs;
 
 // AnalyzeTemplate represents the template definition of the Analyze service- for analyzing sensitive text.
 message AnalyzeTemplate {

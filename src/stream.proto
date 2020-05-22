@@ -1,7 +1,7 @@
 syntax = "proto3";
 import "template.proto";
 
-package types;
+package presidio.protobufs;
 
 // StreamRequest represents the request to the stream service via GRPC
 message StreamRequest {

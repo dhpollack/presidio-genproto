@@ -2,7 +2,7 @@ syntax = "proto3";
 import "common.proto";
 import "template.proto";
 
-package types;
+package presidio.protobufs;
 
 // AnalyzeApiRequest represents the request to the API HTTP service 
 message AnalyzeApiRequest {

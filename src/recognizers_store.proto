@@ -1,5 +1,5 @@
 syntax = "proto3";
-package types;
+package presidio.protobufs;
 
 // Pattern represents one regex (pattern) that is able to detect a certain
 // entity and how confident the result is

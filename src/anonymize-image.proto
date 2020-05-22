@@ -1,7 +1,7 @@
 syntax = "proto3";
 import "common.proto";
 import "template.proto";
-package types;
+package presidio.protobufs;
 
 
 // AnonymizeApiRequest represents the request to the API HTTP service 

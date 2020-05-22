@@ -1,5 +1,5 @@
 syntax = "proto3";
-package types;
+package presidio.protobufs;
 import "stream.proto";
 import "scan.proto";
 import "template.proto";

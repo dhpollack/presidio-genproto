@@ -1,7 +1,7 @@
 syntax = "proto3";
 import "template.proto";
 
-package types;
+package presidio.protobufs;
 
 // ScanRequest represents the request to the scanner service via GRPC
 message ScanRequest {
